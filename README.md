@@ -10,7 +10,7 @@
 <hr>
 
 ## Education
-### Univeristy of Denver, Daniels College of Business
+### University of Denver, Daniels College of Business
 Bachelor of Science in Business Information & Analytics, Minor in Business Management, June 2024
 
 <ul>
@@ -65,13 +65,14 @@ Bachelor of Science in Business Information & Analytics, Minor in Business Manag
    <td>
      <ul>
        <li>Data Warehousing and Business Intelligence</li>
-       <li>Enterprise Information Managment</li>
+       <li>Enterprise Information Management</li>
        <li>Optimization Modeling</li>
-       <li>Managment Consulting</li>
-       <li>Project Managment</li>
+       <li>Management Consulting</li>
+       <li>Project Management</li>
        <li>Data Mining and Visualization</li>
        <li>Sports Analytics</li>
-        <li>Complex Data Analytics</li>
+       <li>Managing Complex Organizations</li>
+       <li>Complex Data Analytics</li>
      </ul>
    </td>
  </tr>
