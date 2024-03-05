@@ -1,16 +1,67 @@
 ### Hi there 👋
+<a name="top"></a>
+<hr>
 
-<!--
-**BrettKatz77/Brettkatz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome! This is a little about me and my current education endeavors 
+[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
+[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
 
-Here are some ideas to get you started:
+<a name="education"></a>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+### Univeristy of Denver, Daniels College of Business
+Bachelor of Science in Business Information & Analytics, Minor in Business Management, June 2024
+
+<ul>
+  </ul>
+
+## Skills
+
+<table>
+  <tr>
+    <th>Tools and Technical Skills</th>
+    <th>Certifications</th>
+  </tr>
+  <tr>
+    <td>
+     <ul>
+        <li>SQL</li>
+        <li>Visual Basic</li>
+        <li>Python</li>
+        <li>R</li>
+        <li>Excel</li>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+       <li>PowerBI</li>
+      </ul>
+    </td>
+    <td>
+     <ul>
+        <li><a href = "https://learn.microsoft.com/api/credentials/share/en-us/BrettKatz-6283/413BEF812C6F536E?sharingId=F96DFCC9DF501F46">Microsoft Certified: Azure Data Fundamentals</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Soft Skills & Other</th>
+ </tr>
+ <tr>
+   <td>
+        <li>Growth Mindset</li>
+        <li>Critical & Strategic Thinker</li>
+        <li>Adaptability</li>
+        <li>Resilient</li>
+        <li>Active Listener</li>
+        <li>Collaborative</li>
+        <li>Respectful</li>
+       
+   </td>
+   <td>
+     <ul>
+     </ul>
+   </td>
+ </tr>
+</table>
+
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
