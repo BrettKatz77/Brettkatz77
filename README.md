@@ -45,6 +45,7 @@ Bachelor of Science in Business Information & Analytics, Minor in Business Manag
   </tr>
   <tr>
     <th>Soft Skills & Other</th>
+    <th>Relevant Classes</th>
  </tr>
  <tr>
    <td>
@@ -55,10 +56,22 @@ Bachelor of Science in Business Information & Analytics, Minor in Business Manag
         <li>Active Listener</li>
         <li>Collaborative</li>
         <li>Respectful</li>
+        <li>Problem Solver</li>
+        <li>EQ</li>
+
+
        
    </td>
    <td>
      <ul>
+       <li>Data Warehousing and Business Intelligence</li>
+       <li>Enterprise Information Managment</li>
+       <li>Optimization Modeling</li>
+       <li>Managment Consulting</li>
+       <li>Project Managment</li>
+       <li>Data Mining and Visualization</li>
+       <li>Sports Analytics</li>
+        <li>Complex Data Analytics</li>
      </ul>
    </td>
  </tr>
